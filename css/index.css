@@ -1,0 +1,15 @@
+li {
+    padding: 8px;
+    cursor: pointer;
+}
+li:hover {
+    background: grey;
+}
+img {
+    cursor: pointer;
+}
+
+
+span#click-counter {
+    color: blue;
+}
